@@ -1,9 +1,13 @@
-# CleanServices
+# CleanServices - [Live Preview](https://ihebhafdallah.github.io/CleanServices/)
 Clean Services Simple Landing Page (Landing Page With HTML5, CSS3, JS, Bootstrap 5, jQuery)
 
 ## Build With
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+[![HTML 5](https://img.shields.io/badge/HTML%205-gray?logo=HTML5)](https://www.w3.org/html/ "Go to HTML on w3")
+[![CSS3](https://img.shields.io/badge/CSS%203-gray?logo=CSS3)](https://www.w3schools.com/css/ "Go to CSS on w3schools")
+[![JS](https://img.shields.io/badge/JavaScript-gray?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "Go to JS")
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap-gray?logo=Bootstrap)](https://getbootstrap.com/docs/5.0/ "Go to Bootstrap 5")
+[![jQuery](https://img.shields.io/badge/jQuery-gray?logo=jQuery)](https://jquery.com/ "Go to jQuery")
 
 ## Preview
 
