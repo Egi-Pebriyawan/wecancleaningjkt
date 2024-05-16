@@ -366,3 +366,9 @@ body {
 .blue-color a.whatsapp-icon:hover {
   color: #128c7e; /* Warna hijau lebih gelap saat di-hover */
 }
+
+@media only screen and (max-width: 767px) {
+  .slide {
+    background-image: none !important; /* Menyembunyikan gambar latar belakang pada perangkat seluler */
+  }
+}
