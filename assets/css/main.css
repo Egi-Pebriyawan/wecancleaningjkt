@@ -372,3 +372,9 @@ body {
     background-image: none !important; /* Menyembunyikan gambar latar belakang pada perangkat seluler */
   }
 }
+
+@media only screen and (max-width: 767px) {
+  .box-service .text-center {
+    margin-bottom: 2rem; /* Menambahkan margin bawah pada tombol di bagian Commercial */
+  }
+}
